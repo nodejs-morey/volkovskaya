@@ -1,4 +1,3 @@
-/* eslint-disable prettier/prettier */
 import { useEffect, useMemo, useState } from "react";
 
 export default function useIsInViewport(ref) {

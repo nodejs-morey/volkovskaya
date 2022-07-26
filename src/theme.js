@@ -1,5 +1,4 @@
 /* eslint-disable no-unused-vars */
-/* eslint-disable prettier/prettier */
 /* eslint-disable object-curly-newline */
 /* eslint-disable indent */
 // import { styled, Typography } from "@mui/material";

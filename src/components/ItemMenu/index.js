@@ -1,6 +1,5 @@
 /* eslint-disable implicit-arrow-linebreak */
 /* eslint-disable no-nested-ternary */
-/* eslint-disable prettier/prettier */
 /* eslint-disable object-curly-newline */
 import { styled, Box, Typography } from "@mui/material";
 
